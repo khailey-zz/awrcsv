@@ -1,0 +1,6 @@
+Elapsed Time (s):SQL Id:sql_by_ela-elapsed:SQL ordered by Elapsed Time:SQL ordered by CPU Time:^[\d\s,\.]{15}[\d] [\d\s,]{13}[\d\s,]:68:13:1:16:0:0
+Executions:SQL Id:sql_by_ela-execs:SQL ordered by Elapsed Time:SQL ordered by CPU Time:^[\d\s,\.]{15}[\d] [\d\s,]{13}[\d\s,]:68:13:18:14:0:0
+Elapsed Time per Exec (s):SQL Id:sql_by_ela-ela_per_exec:SQL ordered by Elapsed Time:SQL ordered by CPU Time:^[\d\s,\.]{15}[\d] [\d\s,]{13}[\d\s,]:68:13:33:13:0:0
+%Total DB Time:SQL Id:sql_by_ela-pct_dbtime:SQL ordered by Elapsed Time:SQL ordered by CPU Time:^[\d\s,\.]{15}[\d] [\d\s,]{13}[\d\s,]:68:13:47:6:0:0
+%CPU (as %Ela):SQL Id:sql_by_ela-pct_cpu:SQL ordered by Elapsed Time:SQL ordered by CPU Time:^[\d\s,\.]{15}[\d] [\d\s,]{13}[\d\s,]:68:13:54:6:0:0
+%IO (as %Ela):SQL Id:sql_by_ela-pct_io:SQL ordered by Elapsed Time:SQL ordered by CPU Time:^[\d\s,\.]{15}[\d] [\d\s,]{13}[\d\s,]:68:13:61:6:0:0

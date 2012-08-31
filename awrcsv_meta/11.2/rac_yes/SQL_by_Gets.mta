@@ -1,0 +1,7 @@
+Buffer Gets:SQL Id:sql_by_gets-total_cpu:SQL ordered by Gets:SQL ordered by Reads:^[\d\s,]{10}[\d] [\d\s,]{10}[\d\s,]:68:13:1:11:0:0
+Executions:SQL Id:sql_by_gets-executions:SQL ordered by Gets:SQL ordered by Reads:^[\d\s,]{10}[\d] [\d\s,]{10}[\d\s,]:68:13:13:11:0:0
+Gets per Exec:SQL Id:sql_by_gets-gets_per_exec:SQL ordered by Gets:SQL ordered by Reads:^[\d\s,]{10}[\d] [\d\s,]{10}[\d\s,]:68:13:25:12:0:0
+%Total Buffer Gets:SQL Id:sql_by_gets-pct_total_gets:SQL ordered by Gets:SQL ordered by Reads:^[\d\s,]{10}[\d] [\d\s,]{10}[\d\s,]:68:13:38:6:0:0
+Elapsed Time (s):SQL Id:sql_by_gets-elapsed:SQL ordered by Gets:SQL ordered by Reads:^[\d\s,]{10}[\d] [\d\s,]{10}[\d\s,]:68:13:45:10:0:0
+%CPU (as %Ela):SQL Id:sql_by_gets-pct_cpu:SQL ordered by Gets:SQL ordered by Reads:^[\d\s,]{10}[\d] [\d\s,]{10}[\d\s,]:68:13:56:6:0:0
+%IO (as %Ela):SQL Id:sql_by_gets-pct_io:SQL ordered by Gets:SQL ordered by Reads:^[\d\s,]{10}[\d] [\d\s,]{10}[\d\s,]:68:13:62:5:0:0

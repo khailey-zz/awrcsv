@@ -1,0 +1,11 @@
+# NOTE:
+# The "^[\s\S]{80}$" patern match on the "% bg time" line is to ensure that the lines to 
+# be processed for this stat are 80 chars long since some of the lines in this section 
+# are shorter and don't include this statistic.
+#
+Background Wait [Waits]:Wait Event:background_waits-waits:Background Wait Events:Wait Event Histogram::1:26:28:12:9:3
+Background Wait [%Timeouts]:Wait Event:background_waits-pct_timeouts:Background Wait Events:Wait Event Histogram::1:26:41:5:9:3
+Background Wait [Total Wait Time (s)]:Wait Event:background_waits-total_wait_time:Background Wait Events:Wait Event Histogram::1:26:47:10:9:3
+Background Wait [Avg Wait (ms)]:Wait Event:background_waits-avg_wait:Background Wait Events:Wait Event Histogram::1:26:58:7:9:3
+Background Wait [Waits / Tx]:Wait Event:background_waits-waits_per_tx:Background Wait Events:Wait Event Histogram::1:26:66:8:9:3
+Background Wait [% bg time]:Wait Event:background_waits-pct_bg_time:Background Wait Events:Wait Event Histogram:^[\s\S]{80}$:1:26:75:6:9:12

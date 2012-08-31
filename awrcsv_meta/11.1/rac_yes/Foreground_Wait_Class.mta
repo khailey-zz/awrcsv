@@ -1,0 +1,5 @@
+Foreground Wait Class:Waits:foreground_wait_class-waits:Foreground Wait Class:Foreground Wait Events::1:20:22:16:11:3
+Foreground Wait Class:%Timeouts:foreground_wait_class-pct_timeouts:Foreground Wait Class:Foreground Wait Events::1:20:39:5:11:3
+Foreground Wait Class:Total Wait Time (s):foreground_wait_class-total_wait_time:Foreground Wait Class:Foreground Wait Events::1:20:45:16:11:3
+Foreground Wait Class:Avg Wait Time (ms):foreground_wait_class-avg_wait_time:Foreground Wait Class:Foreground Wait Events::1:20:62:8:11:3
+Foreground Wait Class:%DB time:foreground_wait_class-pct_db_time:Foreground Wait Class:Foreground Wait Events::1:20:71:9:11:3

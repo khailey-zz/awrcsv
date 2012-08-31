@@ -1,0 +1,3 @@
+Buffer Wait Statistics [Waits]:Buffer Class:buffer_wait_stats-waits:Buffer Wait Statistics:Enqueue Activity::1:18:20:11:5:3
+Buffer Wait Statistics [Total Wait Time (s)]:Buffer Class:buffer_wait_stats-total_wait_time:Buffer Wait Statistics:Enqueue Activity::1:18:32:19:5:3
+Buffer Wait Statistics [Avg Wait Time (ms)]:Buffer Class:buffer_wait_stats-avg_wait_time:Buffer Wait Statistics:Enqueue Activity::1:18:52:14:5:3

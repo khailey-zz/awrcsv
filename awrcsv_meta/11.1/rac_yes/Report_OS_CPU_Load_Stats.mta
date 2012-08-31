@@ -1,0 +1,7 @@
+# O/S CPU Load Statistics
+CPU Statistics:Statistic Name:os_cpu_load_stats:Operating System Statistics:Service Statistics:BUSY_TIME:1:32:34:20:4:3
+CPU Statistics:Statistic Name:os_cpu_load_stats:Operating System Statistics:Service Statistics:IDLE_TIME:1:32:34:20:4:3
+CPU Statistics:Statistic Name:os_cpu_load_stats:Operating System Statistics:Service Statistics:IOWAIT_TIME:1:32:34:20:4:3
+CPU Statistics:Statistic Name:os_cpu_load_stats:Operating System Statistics:Service Statistics:SYS_TIME:1:32:34:20:4:3
+CPU Statistics:Statistic Name:os_cpu_load_stats:Operating System Statistics:Service Statistics:USER_TIME:1:32:34:20:4:3
+CPU Statistics:Statistic Name:os_cpu_load_stats:Operating System Statistics:Service Statistics:LOAD:1:32:34:20:4:3

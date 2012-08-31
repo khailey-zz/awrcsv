@@ -1,0 +1,4 @@
+# Table Access: table fetch by rowid, table fetch continued row, table scan... (wild card match)
+Table I/O:Access Method|[Per Sec]:table_io_access_methods:Instance Activity Stats:Instance Activity Stats - Absolute Values:table fetch by rowid:1:32:53:14:4:3
+Table I/O:Access Method|[Per Sec]:table_io_access_methods:Instance Activity Stats:Instance Activity Stats - Absolute Values:table fetch continued row:1:32:53:14:4:3
+Table I/O:Access Method|[Per Sec]:table_io_access_methods:Instance Activity Stats:Instance Activity Stats - Absolute Values:^table scan:1:32:53:14:4:3

@@ -1,0 +1,28 @@
+20.05.2011: Corrected the counts CSV file name in the SQL_by_Version_Count.mta file.
+21.05.2011: Fixed case mismatch in Categories.mta, corrected to: SGA_Breakdown, SGA_Memory_Summary
+23.05.2011: Fixed the "SQL_by_CPU.mta" / "CPU time per Exec (s)" entry.
+27.05.2011: Included DBTime.mta (Category 1: Basic). This generates a db_time CSV file which allows AAS to be calculated.
+14.06.2011: Fixed the label in the DBTime.mta files from "BB Time" to "DB Time"
+18.06.2011: Included Shared Pool Statistics sub-section of Intance Effieciency Pct in Instance_Eff_Pct.mta for 10.2 (needs inc in other versions)
+23.06.2011: Fixed the field lengths for Undo Segment Summary [STO Count] & Undo Segment Summary [OOS Count] in 10.2
+            version of Undo_TS_Summary.mta.
+03.11.2011: Included 10.2.0.5.0 meta-data due to subtle changes in  AWR format from previous patchsets.
+03.11.2011: Included Instance_Activity_Log_Switches.mta to provide redo log switch statistics.
+09.11.2011: Added Instance_Activity_Log_Switches.mta, this is also included in Category 3 (Statistics & Events) of Categories.mta
+16.11.2011: Included the Reporting meta-data files (these are now the deafaults for generating CSVs)
+17.11.2011: Backported the RAC specific meta-data to 10.2
+17.11.2011: Updated Categories_README.txt and Categories.mta to include Reporting meta-data.
+23.11.2011: Tested against 11.2 RAC
+30.11.2011: Fixed SQL-By_Gets.mta, SQL_by_Executions.mta and Report_Table_IO.mta for 11.2.
+14.12.2011: Fixed Report_Table_IO.mta for Oracle 11.1
+================================================================================================
+12.03.2012: Converted 11.1 / RAC to field# method of reference for the following metadata files:
+              o Report_Tspace_IO_Stats.mta
+              o Report_Top_5_Timed_Events.mta
+12.03.2012: Fixed search patterns for Segments by Physical Reads in Segment_Activity.mta
+            THESE FIXES MAY NEED TO BE PROMULGATED THROUGH TO NON-RAC METADATA
+================================================================================================
+*** Start of version 1.14 ***
+14.08.2012: Corrected the CSV file name generated for "Elapsed Time per Exec (s):SQL Id"
+from sql_by_ela-cpu_per_exec to sql_by_ela-ela_per_exec.
+================================================================================================

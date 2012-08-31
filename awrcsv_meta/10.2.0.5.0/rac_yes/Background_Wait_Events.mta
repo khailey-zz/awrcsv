@@ -1,0 +1,5 @@
+Background Wait [Waits]:Wait Event:background_waits-waits:Background Wait Events:Operating System Statistics::1:28:30:14:7:3
+Background Wait [%Timeouts]:Wait Event:background_waits-pct_timeouts:Background Wait Events:Operating System Statistics::1:28:45:6:7:3
+Background Wait [Total Wait Time (s)]:Wait Event:background_waits-total_wait_time:Background Wait Events:Operating System Statistics::1:28:52:11:7:3
+Background Wait [Avg Wait (ms)]:Wait Event:background_waits-avg_wait:Background Wait Events:Operating System Statistics::1:28:64:7:7:3
+Background Wait [Waits / Tx]:Wait Event:background_waits-waits_per_tx:Background Wait Events:Operating System Statistics::1:28:72:9:7:3

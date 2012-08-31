@@ -1,0 +1,4 @@
+# Report Top 5 Foreground Wait Events
+Top 5 Timed Events [Time (s)]:Event Name:top_5_timed_events-time:Top 5 Timed Foreground Events:Host CPU:^((?!DB CPU).)*$:1:30:3::6:1
+Top 5 Timed Events [Avg Wait (ms)]:Event Name:top_5_timed_events-avg_wait:Top 5 Timed Foreground Events:Host CPU:^((?!DB CPU).)*$:1:30:4::6:1
+Top 5 Timed Events [%DBTime]:Event Name:top_5_timed_events-pct_call_time:Top 5 Timed Foreground Events:Host CPU:^((?!DB CPU).)*$:1:30:5::6:1

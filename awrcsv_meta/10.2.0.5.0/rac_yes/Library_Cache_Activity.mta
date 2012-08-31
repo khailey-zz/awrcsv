@@ -1,0 +1,6 @@
+Library Cache Activity [Get Requests]:Namespace:library_cache-get_req:Library Cache Activity                DB:Library Cache Activity .RAC::1:15:17:12:6:3
+Library Cache Activity [Get Pct Misses]:Namespace:library_cache-get_pct_miss:Library Cache Activity                DB:Library Cache Activity .RAC::1:15:30:6:6:3
+Library Cache Activity [Pin Requests]:Namespace:library_cache-pin_req:Library Cache Activity                DB:Library Cache Activity .RAC::1:15:37:14:6:3
+Library Cache Activity [Pin Pct Misses]:Namespace:library_cache-pin_pct_miss:Library Cache Activity                DB:Library Cache Activity .RAC::1:15:52:6:6:3
+Library Cache Activity [Reloads]:Namespace:library_cache-reloads:Library Cache Activity                DB:Library Cache Activity .RAC::1:15:59:10:6:3
+Library Cache Activity [Invalidations]:Namespace:library_cache-invalidations:Library Cache Activity                DB:Library Cache Activity .RAC::1:15:70:8:6:3

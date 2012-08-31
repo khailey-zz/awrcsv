@@ -1,0 +1,3 @@
+# Buffer Cache Analysis (Buffer Hit% & Physical Reads per Second)
+Buffer Cache Analysis:Statistic Name:buffer_cache_analysis:Buffer Nowait %:Parse CPU to Parse Elapsd:Buffer:1:27:30:7:0:0
+Buffer Cache Analysis:Statistic Name|(per Second):buffer_cache_analysis:Instance Activity Stats:Instance Activity Stats - Absolute Values:physical reads:1:32:53:14:4:3

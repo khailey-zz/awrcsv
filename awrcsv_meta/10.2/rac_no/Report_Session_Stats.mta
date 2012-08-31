@@ -1,0 +1,4 @@
+# Sessions (Sessions at start of snapshot), Cumulative logons per second
+Sessions:Statistic|[Total]:session_statistics:Snap Id:Begin Snap::43:8:S2-43:8:0:0
+Sessions:Statistic|[Total]:session_statistics:Snap Id:Begin Snap::52:9:S2-52:9:0:0
+Sessions:Statistic|[per Second]:session_statistics:Instance Activity Stats:Instance Activity Stats - Absolute Values:logons cumulative:1:32:53:14:4:3

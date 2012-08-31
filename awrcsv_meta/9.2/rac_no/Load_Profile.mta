@@ -1,0 +1,4 @@
+Load Profile (Per Sec):Load Metric:load_profile-per_sec:Load Profile: % Blocks changed per Read::1:27:36:15:3:2
+Load Profile (Per Trans):Load Metric:load_profile-per_tx:Load Profile: % Blocks changed per Read::1:27:58:15:3:3
+Load Profile (Percentages):Load Metric:load_profile-pct: Blocks changed per Read:Instance Efficiency Percentages::1:27:30:7:0:2
+Load Profile (Percentages Part 2):Load Metric:load_profile-pct: Blocks changed per Read:Instance Efficiency Percentages::41:16:59:20:0:2

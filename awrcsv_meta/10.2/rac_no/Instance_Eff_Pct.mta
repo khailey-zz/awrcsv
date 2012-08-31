@@ -1,0 +1,3 @@
+Instance Efficiency Percentages:Eff Metric:inst_eff_pct:Buffer Nowait %:Parse CPU to Parse Elapsd::1:27:30:7:0:0
+Instance Efficiency Percentages [Part 2]:Eff Metric:inst_eff_pct:Buffer Nowait %:Parse CPU to Parse Elapsd::41:16:59:7:0:0
+Instance Efficiency Percentages [Part 3]:Eff Metric:inst_eff_pct:^ Shared Pool Statistics:Top 5 Timed Events::1:27:31:6:2:2

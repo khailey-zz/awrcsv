@@ -1,0 +1,12 @@
+# Report Top 5 Foreground Wait Events
+# Filter out DB CPU here as these entries have a different number of fields to regular event entries and we want to reference by 
+# field no. rather than start position and field length.
+Top 5 Timed Events [Time (s)]:Event Name:top_5_timed_events-time:Top 5 Timed Foreground Events:Host CPU:^((?!DB CPU).)*$:1:30:3::6:1
+# Include DB CPU here 
+Top 5 Timed Events [Time (s)]:Event Name:top_5_timed_events-time:Top 5 Timed Foreground Events:Host CPU:DB CPU:1:30:2::6:1
+# Filter out DB CPU here as it Avg Wait Time doesn't exist or make sense in this context.
+Top 5 Timed Events [Avg Wait (ms)]:Event Name:top_5_timed_events-avg_wait:Top 5 Timed Foreground Events:Host CPU:^((?!DB CPU).)*$:1:30:4::6:1
+# Filter out DB CPU here as these entries have a different number of fields to regular event entries.
+Top 5 Timed Events [%DBTime]:Event Name:top_5_timed_events-pct_call_time:Top 5 Timed Foreground Events:Host CPU:^((?!DB CPU).)*$:1:30:5::6:1
+# Include DB CPU here 
+Top 5 Timed Events [%DBTime]:Event Name:top_5_timed_events-pct_call_time:Top 5 Timed Foreground Events:Host CPU:DB CPU:1:30:3::6:1

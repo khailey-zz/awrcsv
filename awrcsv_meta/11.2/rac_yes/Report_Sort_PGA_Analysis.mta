@@ -1,0 +1,8 @@
+# Sort Analysis & PGA Management: sorts (disk), W/A Mb Processed, PGA Mem Alloc, PGA Aggr Target, Extra W/A MB Read / Written
+Sorts & PGA Management:Sort / PGA Metric:pga_management:PGA cache hit %:PGA Aggr Target Stats::1:15:S2-1:15:2:3
+Sorts & PGA Management:Sort / PGA Metric:pga_management:PGA cache hit %:PGA Aggr Target Stats::17:18:S2-17:18:2:3
+Sorts & PGA Management:Sort / PGA Metric:pga_management:PGA cache hit %:PGA Aggr Target Stats::36:18:S2-36:26:2:3
+Sorts & PGA Management:Sort / PGA Metric:pga_management:PGA Aggr   Auto PGA:PGA Aggr Target Histogram::25:9:S3-25:9:0:4
+Sorts & PGA Management:Sort / PGA Metric|[Total]:pga_management:Instance Activity Stats:Instance Activity Stats - Absolute Values:sorts:1:32:34:18:4:3
+Sorts & PGA Management:Sort / PGA Metric|[Per Sec]:pga_management:Instance Activity Stats:Instance Activity Stats - Absolute Values:sorts:1:32:53:14:4:3
+# Sorts & PGA Management:Sort / PGA Metric:pga_management:%PGA  %Auto   %Man:PGA Aggr Target Histogram::47:6:S4-47:6:0:4

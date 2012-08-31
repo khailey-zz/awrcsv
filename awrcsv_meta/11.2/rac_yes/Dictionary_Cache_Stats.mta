@@ -1,0 +1,6 @@
+Dictionary Cache Stats [Get Requests]:Cache:dict_cache_stats-get_reqs:Dictionary Cache Stats:Dictionary Cache Stats .RAC::1:25:27:12:7:3
+Dictionary Cache Stats [Pct Get Misses]:Cache:dict_cache_stats-pct_get_miss:Dictionary Cache Stats:Dictionary Cache Stats .RAC::1:25:40:6:7:3
+Dictionary Cache Stats [Scan Requests]:Cache:dict_cache_stats-scan_reqs:Dictionary Cache Stats:Dictionary Cache Stats .RAC::1:25:47:7:7:3
+Dictionary Cache Stats [Pct Scan Misses]:Cache:dict_cache_stats-pct_scan_miss:Dictionary Cache Stats:Dictionary Cache Stats .RAC::1:25:55:5:7:3
+Dictionary Cache Stats [Mod Requests]:Cache:dict_cache_stats-mod_reqs:Dictionary Cache Stats:Dictionary Cache Stats .RAC::1:25:61:8:7:3
+Dictionary Cache Stats [Final Usage]:Cache:dict_cache_stats-final_usage:Dictionary Cache Stats:Dictionary Cache Stats .RAC::1:25:70:10:7:3

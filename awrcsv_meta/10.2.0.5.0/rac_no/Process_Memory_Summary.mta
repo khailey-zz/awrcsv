@@ -1,0 +1,8 @@
+Process Memory Summary [Alloc (Mb)]:Category:process_memory_summary-alloc:Process Memory Summary:^E ::3:8:12:9:12:1
+Process Memory Summary [Used (Mb)]:Category:process_memory_summary-used:Process Memory Summary:^E ::3:8:22:9:12:1
+Process Memory Summary [Avg Alloc (Mb)]:Category:process_memory_summary-avg_alloc:Process Memory Summary:^E ::3:8:32:8:12:1
+Process Memory Summary [Std Dev Alloc (Mb)]:Category:process_memory_summary-std_dev_alloc:Process Memory Summary:^E ::3:8:41:8:12:1
+Process Memory Summary [Max Alloc (Mb)]:Category:process_memory_summary-max_alloc:Process Memory Summary:^E ::3:8:50:7:12:1
+Process Memory Summary [Hist Max Alloc (Mb)]:Category:process_memory_summary-hist_max_alloc:Process Memory Summary:^E ::3:8:58:7:12:1
+Process Memory Summary [Num Proc]:Category:process_memory_summary-num_proc:Process Memory Summary:^E ::3:8:66:6:12:1
+Process Memory Summary [Num Alloc]:Category:process_memory_summary-num_alloc:Process Memory Summary:^E ::3:8:73:6:12:1

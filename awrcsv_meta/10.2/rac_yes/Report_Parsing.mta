@@ -1,0 +1,5 @@
+# Report parsing statistics
+Time Model Parse Stats - Times [Seconds]:Statistic Name:parse_times:Time Model Statistics:Wait Class:parse:1:42:44:18:8:3
+Time Model Parse Stats - %DB Time:Statistic Name:parse_pct_dbtime:Time Model Statistics:Wait Class:parse:1:42:71:12:8:3
+Instance Activity Parses [per Second]:Statistic Name:inst_activity_parses-per_sec:Instance Activity Stats:Instance Activity Stats - Absolute Values:parse:1:32:53:14:4:3
+Instance Activity Parses [Total]:Statistic Name:inst_activity_parses-total:Instance Activity Stats:Instance Activity Stats - Absolute Values:parse:1:32:34:18:4:3

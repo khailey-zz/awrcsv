@@ -1,0 +1,2 @@
+Wait Class [Waits]:Service Name:wait_class_stats-waits:Wait Class.*DB:Wait Events::1:20:2::12:3
+Wait Class [%Timeouts]:Service Name:wait_class_stats-waits:Wait Class.*DB:Wait Events::1:20:3::12:3

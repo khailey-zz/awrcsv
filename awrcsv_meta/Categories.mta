@@ -1,0 +1,82 @@
+#1: Basic
+1:DBTime.mta
+1:Dictionary_Cache_Stats.mta
+1:Foreground_Wait_Class.mta
+1:Instance_CPU.mta
+1:Instance_Eff_Pct.mta
+1:Library_Cache_Activity.mta
+1:Load_Profile.mta
+1:Memory_Statistics.mta
+1:Report_Sort_PGA_Analysis.mta
+1:Sessions.mta
+1:Top_5_Timed_Events.mta
+
+#2: Host
+2:Hardware.mta
+2:Load.mta
+2:Load_Average.mta
+2:OS_Stats.mta
+2:OS_Stats_Detail.mta
+
+#3: Statistics & Events
+3:Background_Wait_Events.mta
+3:Foreground_Wait_Events.mta
+3:Instance_Activity_Stats.mta
+3:Report_Redo_Activity.mta
+3:Service_Statistics.mta
+3:Time_Model_Stats.mta
+
+#4: SQL
+4:SQL_by_CPU.mta
+4:SQL_by_Elapsed.mta
+4:SQL_by_Executions.mta
+4:SQL_by_Gets.mta
+4:SQL_by_Parse_Calls.mta
+4:SQL_by_Reads.mta
+4:SQL_by_Version_Count.mta
+
+#5: Buffers, Enqueues & Latches
+5:Buffer_Wait_Statistics.mta
+5:Enqueue_Activity.mta
+5:Latch_Activity.mta
+5:Latch_Sleep_Breakdown.mta
+
+#6: IO & Segment Activity
+6:File_IO_Stats.mta
+6:Report_Tspace_IO_Stats.mta
+6:Segment_Activity.mta
+6:Undo_TS_Summary.mta
+
+#7: Oracle Memory
+7:Cache_Sizes.mta
+7:Process_Memory_Summary.mta
+7:SGA_Breakdown.mta
+7:SGA_Memory_Summary.mta
+7:Shared_Pool_Stats.mta
+
+#8: RAC
+8:Dictionary_Cache_Stats_RAC.mta
+8:Global_Cache_and_Enqueue_Services.mta
+8:Global_Cache_Efficiency_Percentages.mta
+8:Global_Cache_Load_Profile.mta
+8:Library_Cache_Activity_RAC.mta
+8:Segment_Activity_RAC.mta
+
+#9:Performance Report
+9:Global_Cache_and_Enqueue_Services.mta
+9:Global_Cache_Efficiency_Percentages.mta
+9:Report_Buffer_Cache.mta
+9:Report_Library_Cache_Activity.mta
+9:Report_OS_CPU_Load_Stats.mta
+9:Report_Parsing.mta
+9:Report_Reads_Writes_Per_Sec.mta
+9:Report_Redo_Activity.mta
+9:Report_Session_Stats.mta
+9:Report_Sort_PGA_Analysis.mta
+9:Report_Table_IO.mta
+9:Report_Table_IO_Methods.mta
+9:Report_Top_5_Timed_Events.mta
+9:Report_Tspace_IO_Stats.mta
+9:Report_TX_Throughput.mta
+9:Report_Undo_TS_Summary.mta
+9:Time_Model_Stats.mta

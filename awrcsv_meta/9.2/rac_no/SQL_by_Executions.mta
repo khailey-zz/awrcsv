@@ -1,0 +1,5 @@
+Executions:SQL Hash:sql_by_execs-execs:SQL ordered by Executions:SQL ordered by Parse Calls:^[\d\s,]{1,11}[\d] [\d\s,]{1,14}[\d]:70:10:1:12:0:0
+Rows Processed:SQL Hash:sql_by_execs-rows_processed:SQL ordered by Executions:SQL ordered by Parse Calls:^[\d\s,]{1,11}[\d] [\d\s,]{1,14}[\d]:70:10:14:15:0:0
+Rows per Exec:SQL Hash:sql_by_execs-rows_per_exec:SQL ordered by Executions:SQL ordered by Parse Calls:^[\d\s,]{1,11}[\d] [\d\s,]{1,14}[\d]:70:10:30:16:0:0
+CPU Time per Exec (s):SQL Hash:sql_by_execs-cpu_per_exec:SQL ordered by Executions:SQL ordered by Parse Calls:^[\d\s,]{1,11}[\d] [\d\s,]{1,14}[\d]:70:10:47:11:0:0
+Elapsed Time per Exec (s):SQL Hash:sql_by_execs-ela_per_exec:SQL ordered by Executions:SQL ordered by Parse Calls:^[\d\s,]{1,11}[\d] [\d\s,]{1,14}[\d]:70:10:59:10:0:0

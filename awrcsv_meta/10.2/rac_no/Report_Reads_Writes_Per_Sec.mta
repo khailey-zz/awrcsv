@@ -1,0 +1,3 @@
+# Read / Write Operations per Second
+IO [Per Second]:Statistic:physical_io-per_sec:Instance Activity Stats:Instance Activity Stats - Absolute Values:^physical reads:1:32:53:14:4:3
+IO [Per Second]:Statistic:physical_io-per_sec:Instance Activity Stats:Instance Activity Stats - Absolute Values:^physical writes:1:32:53:14:4:3

@@ -1,0 +1,3 @@
+Instance Actvity Statistics [Total]:Statistic:instance_activity_stats-total:Instance Activity Stats:Tablespace IO Stats::1:32:34:18:4:2
+Instance Actvity Statistics [Per Second]:Statistic:instance_activity_stats-per_sec:Instance Activity Stats:Tablespace IO Stats::1:32:53:14:4:2
+Instance Actvity Statistics [Per Trans]:Statistic:instance_activity_stats-per_tx:Instance Activity Stats:Tablespace IO Stats::1:32:68:13:4:2

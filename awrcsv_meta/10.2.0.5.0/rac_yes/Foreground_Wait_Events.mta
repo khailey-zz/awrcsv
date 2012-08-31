@@ -1,0 +1,6 @@
+Wait Events:Waits:foreground_wait_events-waits:Wait Events:Background Wait Events::1:28:30:14:12:3
+Wait Events:%Timeouts:foreground_wait_events-pct_timeouts:Wait Events:Background Wait Events::1:28:45:6:12:3
+Wait Events:Total Wait Time (s):foreground_wait_events-total_wait_time:Wait Events:Background Wait Events::1:28:52:11:12:3
+Wait Events:Avg Wait Time (ms):foreground_wait_events-avg_wait_time:Wait Events:Background Wait Events::1:28:64:7:12:3
+Wait Events:Waits per txn:foreground_wait_events-waits_per_txn:Wait Events:Background Wait Events::1:28:72:9:12:3
+# Wait Events:%DB time:foreground_wait_events-pct_db_time:Wait Events:Background Wait Events::1:28:75:6:12:3

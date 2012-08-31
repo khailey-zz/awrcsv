@@ -1,0 +1,4 @@
+Latch Sleep Breakdown [Get Requests]:Latch Name:latch_sleep-get_requests:Latch Sleep Breakdown:Latch Miss Sources::1:26:28:15:6:3
+Latch Sleep Breakdown [Miss Count]:Latch Name:latch_sleep-misses:Latch Sleep Breakdown:Latch Miss Sources::1:26:44:12:6:3
+Latch Sleep Breakdown [Sleep Count]:Latch Name:latch_sleep-count:Latch Sleep Breakdown:Latch Miss Sources::1:26:57:11:6:3
+Latch Sleep Breakdown [Spin Gets]:Latch Name:latch_sleep-spin_gets:Latch Sleep Breakdown:Latch Miss Sources::1:26:69:11:6:3

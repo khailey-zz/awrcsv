@@ -1,0 +1,6 @@
+Physical Reads:SQL Id:sql_by_reads-phys_reads:SQL ordered by Reads:SQL ordered by Executions:^[\d\s,]{13}[\d] [\d\s,]{10}[\d]:68:13:1:14:0:0
+Executions:SQL Id:sql_by_reads-execs:SQL ordered by Reads:SQL ordered by Executions:^[\d\s,]{13}[\d] [\d\s,]{10}[\d]:68:13:16:11:0:0
+Reads per Exec:SQL Id:sql_by_reads-reads_per_exec:SQL ordered by Reads:SQL ordered by Executions:^[\d\s,]{13}[\d] [\d\s,]{10}[\d]:68:13:28:13:0:0
+%Total:SQL Id:sql_by_reads-pct_total:SQL ordered by Reads:SQL ordered by Executions:^[\d\s,]{13}[\d] [\d\s,]{10}[\d]:68:13:42:6:0:0
+CPU Time(s):SQL Id:sql_by_reads-cpu_time:SQL ordered by Reads:SQL ordered by Executions:^[\d\s,]{13}[\d] [\d\s,]{10}[\d]:68:13:49:8:0:0
+Elapsed Time(s):SQL Id:sql_by_reads-ela_time:SQL ordered by Reads:SQL ordered by Executions:^[\d\s,]{13}[\d] [\d\s,]{10}[\d]:68:13:58:9:0:0

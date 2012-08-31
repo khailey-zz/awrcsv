@@ -1,0 +1,5 @@
+Library Cache Activity RAC [GES Lock Requests]:Libcache Component:library_cache_rac-ges_lock_req:Library Cache Activity .RAC:Process Memory Summary::1:15:17:12:5:3
+Library Cache Activity RAC [GES Pin Requests]:Libcache Component:library_cache_rac-ges_pin_req:Library Cache Activity .RAC:Process Memory Summary::1:15:30:12:5:3
+Library Cache Activity RAC [GES Pin Releases]:Libcache Component:library_cache_rac-ges_pin_rel:Library Cache Activity .RAC:Process Memory Summary::1:15:43:12:5:3
+Library Cache Activity RAC [GES Inval. Requests]:Libcache Component:library_cache_rac-ges_inval_req:Library Cache Activity .RAC:Process Memory Summary::1:15:56:11:5:3
+Library Cache Activity RAC [GES Invalidations]:Libcache Component:library_cache_rac-ges_invalidations:Library Cache Activity .RAC:Process Memory Summary::1:15:68:11:5:3

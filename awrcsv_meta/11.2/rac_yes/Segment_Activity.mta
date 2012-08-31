@@ -1,0 +1,5 @@
+Segments by Logical Reads:Owner      Tablespace Object               Sub-Object Obj Type:segments_logical_reads:Segments by Logical Reads:Segments by Physical Reads:^[\*A-Za-z]:1:59:61:12:7:3
+Segments by Physical Reads:Owner      Tablespace Object               Sub-Object Obj Type:segments_physical_reads:Segments by Physical Reads:Segments by Physical Read Requests:^[\*A-Za-z]:1:59:61:12:7:3
+Segments by Row Lock Waits:Owner      Tablespace Object               Sub-Object Obj Type:segments_row_lock_waits:Segments by Row Lock Waits:Segments by ITL Waits:^[\*A-Za-z]:1:59:61:12:7:3
+Segments by ITL Waits:Owner      Tablespace Object              Sub-Object Obj Type:segments_itl_waits:Segments by ITL Waits:Segments by Buffer Busy Waits:^[\*A-Za-z]:1:59:61:12:7:3
+Segments by Buffer Busy Waits:Owner      Tablespace Object             Sub-Object   Obj Type:segments_buffer_busy_waits:Segments by Buffer Busy Waits:Segments by Global Cache Buffer Busy:^[\*A-Za-z]:1:59:61:12:8:3

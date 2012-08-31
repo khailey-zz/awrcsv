@@ -1,0 +1,3 @@
+Dictionary Cache Stats [GES Requests]:Cache:dict_cache_stats_rac-ges_requests:Dictionary Cache Stats .RAC:Library Cache Activity::1:25:27:12:7:3
+Dictionary Cache Stats [GES Conflicts]:Cache:dict_cache_stats_rac-ges_conflicts:Dictionary Cache Stats .RAC:Library Cache Activity::1:25:40:12:7:3
+Dictionary Cache Stats [GES Releases]:Cache:dict_cache_stats_rac-ges_releases:Dictionary Cache Stats .RAC:Library Cache Activity::1:25:53:12:7:3

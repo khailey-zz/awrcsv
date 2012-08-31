@@ -1,0 +1,4 @@
+# Transactional Throughput
+Transactions [Per Second]:Statistic:transactions-per_sec:Instance Activity Stats:Instance Activity Stats - Absolute Values:user commits:1:32:53:14:4:3
+Transactions [Per Second]:Statistic:transactions-per_sec:Instance Activity Stats:Instance Activity Stats - Absolute Values:transaction rollbacks:1:32:53:14:4:3
+Transactions [Per Second]:Statistic:transactions-per_sec:Instance Activity Stats:Instance Activity Stats - Absolute Values:user rollbacks:1:32:53:14:4:3

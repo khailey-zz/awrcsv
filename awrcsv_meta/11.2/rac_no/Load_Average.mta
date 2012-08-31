@@ -1,0 +1,4 @@
+Load Average:Metric:load_average:%User   %System      %WIO     %Idle:Instance CPU::12:9:S2-12:9:2:2
+Load Average:Metric:load_average:%User   %System      %WIO     %Idle:Instance CPU::32:9:S2-32:9:2:2
+Load Average:Metric:load_average:%User   %System      %WIO     %Idle:Instance CPU::43:9:S2-43:9:2:2
+Load Average:Metric:load_average:%User   %System      %WIO     %Idle:Instance CPU::62:9:S2-62:9:2:2

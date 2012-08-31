@@ -1,0 +1,4 @@
+Latch Activity [Get Requests]:Latch Name:latch_sleep-get_requests:Latch Activity:Library Cache Activity:^[\w\s\.]{25}[\d\s\,]{13}[\d][\s][\s\d\.]{5}[\d][\s]:1:24:26:14:10:2
+Latch Activity [Pct Get Miss]:Latch Name:latch_sleep-pct_get_miss:Latch Activity:Library Cache Activity:^[\w\s\.]{25}[\d\s\,]{13}[\d][\s][\s\d\,\.]{5}[\d][\s]:1:24:41:6:10:2
+Latch Activity [Avg Slps / Miss]:Latch Name:latch_sleep-avg_slps_per_miss:Latch Activity:Library Cache Activity:^[\w\s\.]{25}[\d\s\,]{13}[\d][\s][\s\d\,\.]{5}[\d][\s]:1:24:48:6:10:2
+Latch Activity [Wait Time (s)]:Latch Name:latch_sleep-wait_time:Latch Activity:Library Cache Activity:^[\w\s\.]{25}[\d\s\,]{13}[\d][\s][\s\d\,\.]{5}[\d][\s]:1:24:55:6:10:2

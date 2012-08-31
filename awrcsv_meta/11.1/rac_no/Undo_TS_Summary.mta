@@ -1,0 +1,6 @@
+Undo Segment Summary [Undo Blocks]:Undo TS#:undo_summary-undo_blocks:Undo Segment Summary:Undo Segment Stat::1:4:6:10:10:3
+Undo Segment Summary [Num Trans (K)]:Undo TS#:undo_summary-num_trans:Undo Segment Summary:Undo Segment Stat::1:4:17:15:10:3
+Undo Segment Summary [Max Qry Len (s)]:Undo TS#:undo_summary-max_qry_len:Undo Segment Summary:Undo Segment Stat::1:4:33:8:10:3
+Undo Segment Summary [Max Tx Concurcy]:Undo TS#:undo_summary-max_tx_concurcy:Undo Segment Summary:Undo Segment Stat::1:4:42:8:10:3
+Undo Segment Summary [STO Count]:Undo TS#:undo_summary-sto_count:Undo Segment Summary:Undo Segment Stat::1:4:61-/1:5:10:3
+Undo Segment Summary [OOS Count]:Undo TS#:undo_summary-oos_count:Undo Segment Summary:Undo Segment Stat::1:4:61-/2:5:10:3

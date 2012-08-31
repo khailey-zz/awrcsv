@@ -1,0 +1,5 @@
+Executions:SQL Id:sql_by_execs-execs:SQL ordered by Executions:SQL ordered by Parse Calls:^[\d\s,]{11}[\d] [\d\s,]{14}[\d\s,]:68:13:1:12:0:0
+Rows Processed:SQL Id:sql_by_execs-rows_processed:SQL ordered by Executions:SQL ordered by Parse Calls:^[\d\s,]{11}[\d] [\d\s,]{14}[\d\s,]:68:13:14:15:0:0
+Rows per Exec:SQL Id:sql_by_execs-rows_per_exec:SQL ordered by Executions:SQL ordered by Parse Calls:^[\d\s,]{11}[\d] [\d\s,]{14}[\d\s,]:68:13:30:14:0:0
+CPU per Exec (s):SQL Id:sql_by_execs-cpu_per_exec:SQL ordered by Executions:SQL ordered by Parse Calls:^[\d\s,]{11}[\d] [\d\s,\s,]{14}[\d]:68:13:45:10:0:0
+Elapsed Time per Exec (s):SQL Id:sql_by_execs-ela_per_exec:SQL ordered by Executions:SQL ordered by Parse Calls:^[\d\s,]{11}[\d] [\d\s,\s,]{14}[\d]:68:13:56:11:0:0

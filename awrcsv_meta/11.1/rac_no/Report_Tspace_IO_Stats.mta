@@ -1,0 +1,6 @@
+Tablespace Reads [Total]:Tablespace Name:tablespace_io_stats-reads:Tablespace IO Stats:File IO Stats::1:30:S1-1::8:3
+Tablespace Reads [per Second]:Tablespace Name:tablespace_io_stats-avg_reads_per_sec:Tablespace IO Stats:File IO Stats::1:30:S1-2::8:3
+Tablespace Avg Read Times [ms]:Tablespace Name:tablespace_io_stats-avg_read_time:Tablespace IO Stats:File IO Stats::1:30:S1-3::8:3
+Tablespace Blocks per Read:Tablespace Name:tablespace_io_stats-avg_blks_per_read:Tablespace IO Stats:File IO Stats::1:30:S1-4::8:3
+Tablespace Writes [Total]:Tablespace Name:tablespace_io_stats-writes:Tablespace IO Stats:File IO Stats::1:30:S1-5::8:3
+Tablespace Avg Writes [per Second]:Tablespace Name:tablespace_io_stats-writes_per_sec:Tablespace IO Stats:File IO Stats::1:30:S1-6::8:3

@@ -1,0 +1,4 @@
+Service Statistics [DB Time (s)]:Service Name:service_stats-dbtime:Service Statistics:Service Wait Class Stats::1:28:30:12:6:3
+Service Statistics [CPU Time (s)]:Service Name:service_stats-db_cpu:Service Statistics:Service Wait Class Stats::1:28:43:12:6:3
+Service Statistics [Physical Reads K]:Service Name:service_stats-physical_reads:Service Statistics:Service Wait Class Stats::1:28:56:12:6:3
+Service Statistics [Logical Reads K]:Service Name:service_stats-logical_reads:Service Statistics:Service Wait Class Stats::1:28:69:12:6:3
